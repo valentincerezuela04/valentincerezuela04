@@ -69,6 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentincerezuela04&theme=algolia&layout=compact&langs_count=8"/>
 
 </div>
+
 ---
 
 ## 🔗 Contact

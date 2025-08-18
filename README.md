@@ -18,13 +18,11 @@
   <h2>🚀 About Me</h2>
   
   <div>
-    <!-- Badges al lado derecho del título -->
-    <img src="https://img.shields.io/github/followers/valentincerezuela04?style=for-the-badge" alt="Followers"/>
-    <img src="https://img.shields.io/github/public-repos/valentincerezuela04?style=for-the-badge" alt="Public Repos"/>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=valentincerezuela04.profile" alt="Visitor Count"/>
+    <img src="https://img.shields.io/github/followers/valentincerezuela04?style=for-the-badge&color=blue" alt="Followers"/>
+    <img src="https://komarev.com/ghpvc/?username=valentincerezuela04&style=for-the-badge&color=blue" alt="Visitor Count"/>
+    <img src="https://img.shields.io/badge/GitHub_Profile-Check-blue?style=for-the-badge" alt="GitHub Profile"/>
   </div>
 </div>
-
 <div>
   <p>🎓 Student and developer in training at <b>UTN</b>.</p>
   <p>⚛️ Currently learning <b>React + Node.js</b>.</p>
